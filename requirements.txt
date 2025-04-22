@@ -1,0 +1,6 @@
+descript-audio-codec>=1.0.0
+gradio>=5.25.2
+huggingface-hub>=0.30.2
+numpy>=2.2.4
+pydantic>=2.11.3
+soundfile>=0.13.1
